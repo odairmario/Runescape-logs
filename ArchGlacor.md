@@ -12,4 +12,7 @@
 |:----:|:------:|:------:|:-----------:|:----:|:----:|
 
 ## Logs
-2022-01-04 22:41 -> Comprei 700 hydrix bak e por 8,273,300
+2022-01-04 22:41 -> Comprei 700 ![hydrix_bak_e] e por 8,273,300
+
+## Icons
+[hydrix_bak_e]:Hydrix_bakriminel_bolts_(e)_5.png "Hydrix bakriminel bolts"
