@@ -16,8 +16,8 @@
 |  11  |       0      |     211    |       0      |     18     |     18     |        1611       |  3.945.638 | 2022-01-08 00:14 | 2022-01-08 01:05 |
 |  12  |      211     |     383    |      18      |     33     |     15     |        1629       | -6.135.931 | 2022-01-08 01:50 | 2022-01-08 02:50 |
 |  13  |      383     |      -     |      33      |      -     |      -     |        1644       |            |         -        |         -        |
-| Last |      Max     |     Max    |      Max     |     21     |     Sum    |       Total       |    Total   |                  |                  |
-|  12  |      256     |     383    |      20      |     33     |     124    |        1629       |   69.315   |                  |                  |
+| Last |      Max     |     Max    |      Max     |     Max    |     Sum    |       Total       |    Total   |                  |                  |
+|  13  |      383     |     383    |      33      |     33     |     124    |        1644       |   69.315   |                  |                  |
 <!-- tmf: $-1,6=float2nr(Sum(1:-1)); $-1,8=Sum(1:-1) ; $-1,1=float2nr(Max(1:-1)); $-1,7=float2nr(Max(1:-1)); $-1,2=float2nr(Max(1:-1)); $-1,3=float2nr(Max(1:-1)); $-1,4=float2nr(Max(1:-1)); $-1,5=float2nr(Max(1:-1)) -->
 
 
@@ -29,7 +29,8 @@
 |    1 ![core]    |   11   |    1   |     1611    |  10  | 2022-01-08 00:10 |
 
 ## Logs
-2022-01-04 22:41 -> I bought 700 ![hydrix_bak_e] for 8,273,300.
+2022-01-04 22:41 -> I bought 700 ![hydrix_bak_e] for 8.273.300.
+2022-01-08 19:02 -> I bought 400 ![hydrix_bak_e] for 5.240.00.
 
 [hydrix_bak_e]: statics/hydrix_bakriminel.png "Hydrix bakriminel bolts"
 [dark_nilas]: statics/Dark_nilas.png "Darks nilas"
