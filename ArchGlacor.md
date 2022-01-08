@@ -1,6 +1,5 @@
 # road to 1k kills  ArchGlacor
 ## Kills table
-
 | Trip | Start enrage | End erange | Start streak | End streak | Trip kills | Start Total kills |    Gain    |    Start Date    |     End Date     |
 |:----:|:------------:|:----------:|:------------:|:----------:|:----------:|:-----------------:|:----------:|:----------------:|:----------------:|
 |   0  |      58      |     102    |       5      |      9     |      4     |        1520       | -0.907.991 | 2022-01-04 22:09 | 2022-01-04 22:21 |
@@ -13,9 +12,10 @@
 |   7  |      256     |     374    |      20      |     30     |     10     |        1593       | 22.060.459 | 2022-01-06 16:04 | 2022-01-06 16:55 |
 |   8  |       0      |     33     |       0      |      3     |      3     |        1603       |  7.733.165 | 2022-01-07 19:56 | 2022-01-07 20:11 |
 |   9  |       0      |     23     |       0      |      2     |      3     |        1606       |  8.516.375 | 2022-01-07 20:17 | 2022-01-07 20:51 |
+|  10  |       0      |     11     |       0      |      1     |      2     |        1609       |  6.989.484 | 2022-01-08 00:04 | 2022-01-08 00:11 |
 | Last |      Max     |     Max    |      Max     |     21     |     Sum    |       Total       |    Total   |                  |                  |
-|   8  |      256     |     374    |      20      |     30     |     83     |        1603       |   48.267   |                  |                  |
->  tmf: $-1,6=float2nr(Sum(1:-1)); $-1,8=Sum(1:-1) ; $-1,1=float2nr(Max(1:-1)); $-1,7=float2nr(Max(1:-1)); $-1,2=float2nr(Max(1:-1));$-1,3=float2nr(Max(1:-1)); $-1,4=float2nr(Max(1:-1));$-1,5=float2nr(Max(1:-1))
+|  10  |      256     |     374    |      20      |     30     |     89     |        1609       |   64.516   |                  |                  |
+<!-- tmf: $-1,6=float2nr(Sum(1:-1)); $-1,8=Sum(1:-1) ; $-1,1=float2nr(Max(1:-1)); $-1,7=float2nr(Max(1:-1)); $-1,2=float2nr(Max(1:-1)); $-1,3=float2nr(Max(1:-1)); $-1,4=float2nr(Max(1:-1)); $-1,5=float2nr(Max(1:-1)) -->
 
 
 ## Drop tables
@@ -23,9 +23,11 @@
 |:---------------:|:------:|:------:|:-----------:|:----:|:----------------:|
 | 3 ![dark_nilas] |   84   |    8   |     1552    |   3  | 2022-01-05 21:38 |
 | 2 ![dark_nilas] |   23   |    2   |     1609    |   9  | 2022-01-07 20:48 |
+|    1 ![core]    |   11   |    1   |     1611    |  10  | 2022-01-08 00:10 |
 
 ## Logs
 2022-01-04 22:41 -> I bought 700 ![hydrix_bak_e] for 8,273,300.
 
 [hydrix_bak_e]: statics/hydrix_bakriminel.png "Hydrix bakriminel bolts"
 [dark_nilas]: statics/Dark_nilas.png "Darks nilas"
+[core]: statics/Frozen_core_of_Leng.png "Frozen core of leng"
