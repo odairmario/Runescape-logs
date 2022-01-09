@@ -32,8 +32,12 @@
 
 ## Logs
 2022-01-04 22:41 -> I bought 700 ![hydrix_bak_e] for 8.273.300.
+
 2022-01-08 19:02 -> I bought 400 ![hydrix_bak_e] for 5.240.00.
+
+2022-01-09 01:33 -> I bought 1 ![grico] for 1985M.
 
 [hydrix_bak_e]: statics/hydrix_bakriminel.png "Hydrix bakriminel bolts"
 [dark_nilas]: statics/Dark_nilas.png "Darks nilas"
 [core]: statics/Frozen_core_of_Leng.png "Frozen core of leng"
+[grico]: statics/grico.png "Greater Ricochet ability codex"
