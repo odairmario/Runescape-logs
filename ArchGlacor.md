@@ -41,8 +41,17 @@
 
 2022-01-09 01:33 -> I bought 1 ![grico] for 1985M.
 
+2022-01-10 20:52 -> I bought 250 ![lantadyme_incense] for 6.900.000
+
+2022-01-10 20:52 -> I bought 250 ![kwuarm_incense] for 8.717.250
+
+2022-01-10 20:52 -> I bought 250 ![spirit_wed_incense] for 9.570.250
+
 [hydrix_bak_e]: statics/hydrix_bakriminel.png "Hydrix bakriminel bolts"
 [dark_nilas]: statics/Dark_nilas.png "Darks nilas"
 [core]: statics/Frozen_core_of_Leng.png "Frozen core of leng"
 [grico]: statics/grico.png "Greater Ricochet ability codex"
 [leng]: statics/Leng_artefact.png "Leng artefact"
+[lantadyme_incense]: statics/lantadyme_incense.png "Lantadyme Incense"
+[kwuarm_incense]: statics/kwuarm_incense.png "kwuarm Incense"
+[spirit_wed_incense]: statics/spirit_wed_incense.png "Spirit we incense"
