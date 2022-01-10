@@ -47,6 +47,8 @@
 
 2022-01-10 20:52 -> I bought 250 ![spirit_wed_incense] for 9.570.250
 
+2022-01-10 20:58 -> I bought 500 ![vis] for 10.266.262
+
 [hydrix_bak_e]: statics/hydrix_bakriminel.png "Hydrix bakriminel bolts"
 [dark_nilas]: statics/Dark_nilas.png "Darks nilas"
 [core]: statics/Frozen_core_of_Leng.png "Frozen core of leng"
@@ -55,3 +57,4 @@
 [lantadyme_incense]: statics/lantadyme_incense.png "Lantadyme Incense"
 [kwuarm_incense]: statics/kwuarm_incense.png "kwuarm Incense"
 [spirit_wed_incense]: statics/spirit_wed_incense.png "Spirit we incense"
+[vis]: statics/vis.png "vis"
