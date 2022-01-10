@@ -20,6 +20,7 @@
 |  15  |      231     |     396    |      20      |     34     |     14     |        1667       | 41.357.180 | 2022-01-09 00:21 | 2022-01-09 01:23 |
 |  16  |       0      |     246    |       0      |     21     |     21     |        1681       | -8.597.810 | 2022-01-10 16:49 | 2022-01-10 17:48 |
 |  17  |      246     |     256    |      21      |     22     |      1     |        1702       |  8.221.882 | 2022-01-10 17:57 | 2022-01-10 18:02 |
+|  18  |       0      |     201    |       0      |     17     |     18     |        1703       | 15.545.339 | 2022-01-10 18:04 | 2022-01-10 18:56 |
 | Last |      Max     |     Max    |      Max     |     Max    |     Sum    |       Total       |    Total   |                  |                  |
 |  17  |      383     |     412    |      33      |     36     |     183    |        1702       |   128.49   |                  |                  |
 <!-- tmf: $-1,6=float2nr(Sum(1:-1)); $-1,8=Sum(1:-1) ; $-1,1=float2nr(Max(1:-1)); $-1,7=float2nr(Max(1:-1)); $-1,2=float2nr(Max(1:-1)); $-1,3=float2nr(Max(1:-1)); $-1,4=float2nr(Max(1:-1)); $-1,5=float2nr(Max(1:-1)) -->
@@ -31,6 +32,7 @@
 | 3 ![dark_nilas] |   84   |    8   |     1552    |   3  | 2022-01-05 21:38 |
 | 2 ![dark_nilas] |   23   |    2   |     1609    |   9  | 2022-01-07 20:48 |
 |    1 ![core]    |   11   |    1   |     1611    |  10  | 2022-01-08 00:10 |
+|    1 ![leng]    |   117  |   10   |     1713    |  18  | 2022-01-10 18:29 |
 
 ## Logs
 2022-01-04 22:41 -> I bought 700 ![hydrix_bak_e] for 8.273.300.
@@ -43,3 +45,4 @@
 [dark_nilas]: statics/Dark_nilas.png "Darks nilas"
 [core]: statics/Frozen_core_of_Leng.png "Frozen core of leng"
 [grico]: statics/grico.png "Greater Ricochet ability codex"
+[leng]: statics/Leng_artefact.png "Leng artefact"
