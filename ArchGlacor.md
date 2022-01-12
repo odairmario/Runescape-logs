@@ -55,6 +55,12 @@
 
 2022-01-10 21:23 -> I bought 700 ![hydrix_bak_e] 9.327.500
 
+2022-01-12 16:10 -> I bough 30 ![ripper_pouch] for 3.111.600
+
+2022-01-12 16:13 -> I bough 2k ![ruby_bak_e] for 9.000.000
+
+2022-01-12 16:14 -> I bought 5k ![ripper_scroll] for 24.215.00
+
 [hydrix_bak_e]: statics/hydrix_bakriminel.png "Hydrix bakriminel bolts"
 [dark_nilas]: statics/Dark_nilas.png "Darks nilas"
 [core]: statics/Frozen_core_of_Leng.png "Frozen core of leng"
@@ -64,3 +70,6 @@
 [kwuarm_incense]: statics/kwuarm_incense.png "kwuarm Incense"
 [spirit_wed_incense]: statics/spirit_wed_incense.png "Spirit we incense"
 [vis]: statics/vis.png "vis"
+[ruby_bak_e]: statics/ruby_bak_e.png "Ruby Bakriminel bolts"
+[ripper_scroll]: statics/ripper_scroll.png "Ripper scroll"
+[ripper_pouch]: statics/ripper_pouch.png "Ripper pouch"
