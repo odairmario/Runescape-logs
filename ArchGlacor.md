@@ -46,29 +46,6 @@
 |    1 ![core]    |   11   |    1   |     1611    |  10  | 2022-01-08 00:10 |
 |    1 ![leng]    |   117  |   10   |     1713    |  18  | 2022-01-10 18:29 |
 
-## Logs
-2022-01-04 22:41 -> I bought 700 ![hydrix_bak_e] for 8.273.300.
-
-2022-01-08 19:02 -> I bought 400 ![hydrix_bak_e] for 5.240.00.
-
-2022-01-09 01:33 -> I bought 1 ![grico] for 1985M.
-
-2022-01-10 20:52 -> I bought 250 ![lantadyme_incense] for 6.900.000
-
-2022-01-10 20:52 -> I bought 250 ![kwuarm_incense] for 8.717.250
-
-2022-01-10 20:52 -> I bought 250 ![spirit_wed_incense] for 9.570.250
-
-2022-01-10 20:58 -> I bought 500 ![vis] for 10.266.262
-
-2022-01-10 21:23 -> I bought 700 ![hydrix_bak_e] 9.327.500
-
-2022-01-12 16:10 -> I bough 30 ![ripper_pouch] for 3.111.600
-
-2022-01-12 16:13 -> I bough 2k ![ruby_bak_e] for 9.000.000
-
-2022-01-12 16:14 -> I bought 5k ![ripper_scroll] for 24.215.00
-
 [hydrix_bak_e]: statics/hydrix_bakriminel.png "Hydrix bakriminel bolts"
 [dark_nilas]: statics/Dark_nilas.png "Darks nilas"
 [core]: statics/Frozen_core_of_Leng.png "Frozen core of leng"
