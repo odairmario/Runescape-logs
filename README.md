@@ -1,4 +1,5 @@
 # Runescape - logs
-This repository is destined to store boss kills, and log my pvm activities
+## General
+ * [wealth log](wealth.md)
 ## Bosses tables
   * [Arch glacor](ArchGlacor.md)
